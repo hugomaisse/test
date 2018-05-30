@@ -3,9 +3,7 @@ Read me :
 Version Nodejs : 8+
 
 install :
-npm install cheerio
-npm install request
-npm install request-promise
+npm install
 
 Lancement :
 node test.js
